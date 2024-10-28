@@ -1,0 +1,25 @@
+body {
+    font-family: Arial, sans-serif;
+    color: #333;
+  }
+  
+  header {
+    padding: 20px 40px;
+    background-color: #f8f8f8;
+  }
+  
+  form {
+    max-width: 400px;
+    margin: 40px auto;
+  }
+  
+  form label {
+    display: block;
+    margin-bottom: 10px;
+  }
+  
+  button {
+    background-color: orange;
+    color: white;
+  }
+  
